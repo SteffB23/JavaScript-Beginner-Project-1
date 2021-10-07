@@ -1,10 +1,10 @@
-# JavaScript-Beginner-Project-1
+# JavaScript-Beginner-Project-1 "Peek-a-boo" Monkey
 
 ```We are simply sharpening our skills with begginer projects until we become 👑JavaScript Champions👑 
 
 # JavaScript-Beginner-Project-1
 ![Preview of PROJECT](assets\images\Preview.gif)
-#### JavaScript-Beginner-Project-1, 10-7-21
+#### JavaScript-Beginner-Project-1 "Peek-a-boo" Monkey, 10-7-21
 #### By Stephan Brookens
 
 <p>🔥😉😏😁😆😍😝😜😎🤠🤪🤭🧐🤤🤗😚🤑😛😇😂😅</p>
