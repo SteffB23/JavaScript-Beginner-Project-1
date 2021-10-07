@@ -3,7 +3,7 @@
 ```We are simply sharpening our skills with begginer projects until we become 👑JavaScript Champions👑 
 
 # JavaScript-Beginner-Project-1
-![Preview of PROJECT](assets\images\Preview.gif)
+![Preview of PROJECT](\assets\images\preview.gif)
 #### JavaScript-Beginner-Project-1 "Peek-a-boo" Monkey, 10-7-21
 #### By Stephan Brookens
 
@@ -35,7 +35,7 @@ JavaScript
 
 ## Contribution Guidlines 
 Direct link to site:
-<!--LINK TO PUBLISHED PRODUCT HERE-->
-<!--Link TO GIT REPOSITORY HERE-->
+https://steffb23.github.io/JavaScript-Beginner-Project-1/index
+https://github.com/SteffB23/JavaScript-Beginner-Project-1
 Copyright(c) 2021 by Stephan Brookens
 This software is licensed under MIT license.
